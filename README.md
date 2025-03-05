@@ -116,8 +116,8 @@ Special thanks to **[yfinance](https://pypi.org/project/yfinance/)** for providi
 
 Feel free to reach out for questions or support:
 
-- **Name**: Om Subhash Shrivastav
-- **Email**: [omshrivastav1005@gmail.com](mailto:omshrivastav1005@gmail.com)
-- **GitHub**: [Omshrivastav12](https://github.com/Omshrivastav12)
+- **Name**: Rishabh Rajpurohit
+- **Email**: [rsarjp17@gmail.com](mailto:rsrajp17@gmail.com)
+- **GitHub**: [rdsrawin](https://github.com/rdsrawin)
 
 Happy recommending! 🌟
